@@ -27,6 +27,7 @@ def _acquire_formatter():
 
 
 def _get_richest(obj, formatter, display_order, transforms):
+    # TODO: Rely on disp here?
     (data, metadata) = formatter.format(obj)
     bundle = data
 
