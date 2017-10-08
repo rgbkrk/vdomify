@@ -32,7 +32,11 @@ cd vdomify
 pip install -e .
 ```
 
-## We welcome feedback.
+## Welcoming feedback
 
-Since this project and its API is still a work in progress, we would love to
-hear your thoughts on the API and suggestions for enhancements. 
+Since this project and its API are still a work in progress, I would love to
+hear your thoughts on the API and suggestions for enhancements. PRs likely\* accepted
+quickly, as this is not intended to be as stringent as `vdom`.
+
+\* for some value of likely
+
