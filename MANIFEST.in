@@ -1,0 +1,2 @@
+include versioneer.py
+include vdomify/_version.py
